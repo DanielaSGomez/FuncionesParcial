@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1570410967 source:c:\users\daniela\desktop\nueva carpeta (2)\practicaparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"funciones.h"
+
+1570409874 source:c:\users\daniela\desktop\nueva carpeta (2)\practicaparcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<time.h>
+	"input.h"
+
+1570409895 c:\users\daniela\desktop\nueva carpeta (2)\practicaparcial\input.h
+
+1570410938 source:c:\users\daniela\desktop\nueva carpeta (2)\practicaparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"input.h"
+	"funciones.h"
+
+1570410911 c:\users\daniela\desktop\nueva carpeta (2)\practicaparcial\funciones.h
+
